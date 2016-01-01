@@ -1,0 +1,43 @@
+﻿生成启动时间为 2015/8/6 14:21:25。
+     1>项目“D:\QT\The Finals\MyGraph - new\MyGraph.vcxproj”在节点 2 上(Build 个目标)。
+     1>CustomBuild:
+         Moc'ing graphwidget.h...
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I. /IC:\Qt\Qt5.5.0\5.5\msvc2012\include /IC:\Qt\Qt5.5.0\5.5\msvc2012\include\QtWidgets /IC:\Qt\Qt5.5.0\5.5\msvc2012\include\QtGui /IC:\Qt\Qt5.5.0\5.5\msvc2012\include\QtANGLE /IC:\Qt\Qt5.5.0\5.5\msvc2012\include\QtCore /Idebug /I. /I"C:\Qt\Qt5.5.0\5.5\msvc2012\mkspecs\win32-msvc2012" /I.\GeneratedFiles /Zi /nologo /W3 /WX- /Od /Oy- /D _WINDOWS /D UNICODE /D WIN32 /D QT_WIDGETS_LIB /D QT_GUI_LIB /D QT_CORE_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"Win32\Debug\\" /Fd"Win32\Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt -w34100 -w34189 -w44996 GeneratedFiles\Debug\moc_filedialog.cpp GeneratedFiles\Debug\moc_graphwidget.cpp GeneratedFiles\Debug\moc_mainwindow.cpp filedialog.cpp graphwidget.cpp main.cpp mainwindow.cpp node.cpp paperconferenceauthorgraph.cpp
+         moc_filedialog.cpp
+         moc_graphwidget.cpp
+         moc_mainwindow.cpp
+         filedialog.cpp
+         graphwidget.cpp
+         main.cpp
+         mainwindow.cpp
+         node.cpp
+     1>node.cpp(50): warning C4100: “option”: 未引用的形参
+         paperconferenceauthorgraph.cpp
+         正在生成代码...
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I. /IC:\Qt\Qt5.5.0\5.5\msvc2012\include /IC:\Qt\Qt5.5.0\5.5\msvc2012\include\QtWidgets /IC:\Qt\Qt5.5.0\5.5\msvc2012\include\QtGui /IC:\Qt\Qt5.5.0\5.5\msvc2012\include\QtANGLE /IC:\Qt\Qt5.5.0\5.5\msvc2012\include\QtCore /Idebug /I. /I"C:\Qt\Qt5.5.0\5.5\msvc2012\mkspecs\win32-msvc2012" /I.\GeneratedFiles /Zi /nologo /W3 /WX- /Od /Oy- /D _WINDOWS /D UNICODE /D WIN32 /D QT_WIDGETS_LIB /D QT_GUI_LIB /D QT_CORE_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"Win32\Debug\\" /Fd"Win32\Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt -w34100 -w34189 -w44996 GeneratedFiles\qrc_image.cpp
+         qrc_image.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"debug\\MyGraph.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.5.0\5.5\msvc2012\lib /LIBPATH:C:/qt/qt5.5.0/5.5/msvc2012/lib /LIBPATH:C:\Qt\Qt5.5.0\5.5\msvc2012\lib C:\Qt\Qt5.5.0\5.5\msvc2012\lib\qtmaind.lib shell32.lib C:/qt/qt5.5.0/5.5/msvc2012/lib\Qt5Cored.lib C:\Qt\Qt5.5.0\5.5\msvc2012\lib\Qt5Widgetsd.lib C:\Qt\Qt5.5.0\5.5\msvc2012\lib\Qt5Guid.lib C:\Qt\Qt5.5.0\5.5\msvc2012\lib\Qt5Cored.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"debug\MyGraph.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /MACHINE:X86 /SAFESEH "/MANIFESTDEPENDENCY:type='win32' name='Microsoft.Windows.Common-Controls' version='6.0.0.0' publicKeyToken='6595b64144ccf1df' language='*' processorArchitecture='*'" Win32\Debug\authornode.obj
+         Win32\Debug\conferencenode.obj
+         Win32\Debug\Document.obj
+         Win32\Debug\edge.obj
+         Win32\Debug\filedialog.obj
+         Win32\Debug\moc_filedialog.obj
+         Win32\Debug\moc_graphwidget.obj
+         Win32\Debug\moc_mainwindow.obj
+         Win32\Debug\qrc_image.obj
+         Win32\Debug\graphwidget.obj
+         Win32\Debug\main.obj
+         Win32\Debug\mainwindow.obj
+         Win32\Debug\node.obj
+         Win32\Debug\paperconferenceauthorgraph.obj
+         Win32\Debug\papernode.obj
+         Win32\Debug\topicgraph.obj
+         Win32\Debug\topicnode.obj
+         MyGraph.vcxproj -> D:\QT\The Finals\MyGraph - new\debug\MyGraph.exe
+     1>已完成生成项目“D:\QT\The Finals\MyGraph - new\MyGraph.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:30.39

@@ -1,0 +1,11 @@
+#include <QLabel>
+#include <QApplication>
+
+int main(int argc, char *argv[])
+{
+    QApplication app(argc, argv);
+    QLabel *label = new QLabel("Hello QT!");
+    label->show();
+
+    return app.exec();
+}
